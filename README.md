@@ -1,4 +1,4 @@
-# Perfil Desarrollador de Software
+# Perfil Desarrollador de Software Full Stack
 Experimentado en crear aplicaciones web probando distintas herramientas para el desarrollo y solución de problemas.
 ```sh
 Trabajo con: Html, Css, Javascript, Php, MySql, MariaDB, Git, GitHub, POO, MVC.
