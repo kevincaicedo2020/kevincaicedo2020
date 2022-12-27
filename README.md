@@ -1,4 +1,4 @@
-#Perfil Desarrollador de Software Frontend
+# Perfil Desarrollador de Software Frontend
 
 Experimentado en crear aplicaciones web probando distintas herramientas para el desarrollo y solución de problemas. 
 Trabajo con: Html, Css, Javascript, Php, MySql, MariaDB, Git, GitHub, POO, MVC. 
